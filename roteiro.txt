@@ -1,0 +1,17 @@
+Mini roteiro para desenvolvimento de api
+
+no backend instalar os seguintes pacotes
+
+express para criação do servidor
+mongoose para permitir a conexao com o banco de dados
+cors para permitir a conexão do backend com o fronteend
+date-fns para manipular os filtros envolvendo data
+
+no fronteend instalar os seguintes pacotes
+styled-components para trabalhar com o css
+date-fns para formatar a data e hora que vem do backend
+axios para conectar com o back end
+react-router-dom para manipular a navegação entre telas
+
+
+
